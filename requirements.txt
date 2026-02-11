@@ -1,0 +1,15 @@
+asgiref==3.11.1
+Django==6.0.2
+django-cors-headers==4.9.0
+django-extensions==4.1
+djangorestframework==3.16.1
+extensions==0.4
+gunicorn==25.0.3
+mysqlclient==2.2.8
+packaging==26.0
+PyMySQL==1.1.2
+python-dateutil==2.9.0.post0
+six==1.17.0
+sqlparse==0.5.5
+tzdata==2025.3
+whitenoise==6.11.0
