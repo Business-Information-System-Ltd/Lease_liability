@@ -1,0 +1,13 @@
+asgiref==3.11.1
+Django==6.0.2
+django-cors-headers==4.9.0
+django-extension==0.1.0
+djangorestframework==3.16.1
+dnspython==2.8.0
+mysqlclient==2.2.8
+pymongo==4.16.0
+PyMySQL==1.1.2
+ruff==0.15.1
+shelve_cache==0.0.4
+sqlparse==0.5.5
+tzdata==2025.3
